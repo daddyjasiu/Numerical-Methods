@@ -8,4 +8,4 @@ I heavily suggest using `vectalg.h` header file in almost every solution as it p
 ---
 
 
-Every subfolder contains the task overview and decription in **Polish** (`X_treść` .pdf or .png file).
+Every subfolder contains the task overview and decription in **Polish** (`X_treść.pdf` or `X_treść.png` file).
