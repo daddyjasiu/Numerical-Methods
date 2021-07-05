@@ -4,6 +4,7 @@ This repository contains my solutions to various numerical problems using some k
 
 I heavily suggest using `vectalg.h` header file in almost every solution as it provides the ability to work on an abstract `Vector` structure.
 
+Majority of the algorithms used in these problems were concluded and coded with help of `David Kincaid, Ward Cheney - Numerical analysis - (numerical methods)` book.
 
 ---
 
